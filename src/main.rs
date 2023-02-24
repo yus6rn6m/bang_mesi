@@ -18,6 +18,6 @@ fn main() {
     println!("by. ipnu nuluk");
 }
 fn bang_mesi() {
-    println!("Messi > nt kiper terbaik di dunia");
+    println!("Messi > ente kiper terbaik di dunia");
     println!("User > trimakasih bang messi");
 }
