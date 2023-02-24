@@ -1,1 +1,2 @@
-# bang_mesi
+# Bang Messib
+Program ini hanya untuk iseng semata
